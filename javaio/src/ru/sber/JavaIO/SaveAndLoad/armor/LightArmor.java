@@ -1,4 +1,4 @@
-package ru.sber.javaio.SaveAndLoad.armor;
+package ru.sber.JavaIO.SaveAndLoad.armor;
 
 public class LightArmor implements Armor {
 

@@ -1,4 +1,4 @@
-package ru.sber.javaio.SaveAndLoad.armor;
+package ru.sber.JavaIO.SaveAndLoad.armor;
 
 import java.io.Serializable;
 

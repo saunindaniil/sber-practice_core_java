@@ -1,4 +1,4 @@
-package ru.sber.javaio.RemovingExtraSpaces;
+package ru.sber.JavaIO.RemovingExtraSpaces;
 import java.io.*;
 import java.nio.file.Paths;
 import java.nio.file.Files;

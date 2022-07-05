@@ -1,4 +1,4 @@
-package ru.sber.javaio.SaveAndLoad;
+package ru.sber.JavaIO.SaveAndLoad;
 
 import java.io.FileInputStream;
 import java.io.IOException;

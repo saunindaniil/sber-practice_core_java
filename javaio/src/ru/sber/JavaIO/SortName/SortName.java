@@ -1,4 +1,4 @@
-package ru.sber.javaio.SortName;
+package ru.sber.JavaIO.SortName;
 import java.util.Arrays;
 import java.io.*;
 import java.nio.file.Files;

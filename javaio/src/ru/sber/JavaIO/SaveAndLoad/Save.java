@@ -1,4 +1,4 @@
-package ru.sber.javaio.SaveAndLoad;
+package ru.sber.JavaIO.SaveAndLoad;
 
 import ru.sber.javaio.SaveAndLoad.armor.CombatArmor;
 import ru.sber.javaio.SaveAndLoad.weapon.Mace;
