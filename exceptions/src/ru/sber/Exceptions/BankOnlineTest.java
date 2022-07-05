@@ -1,4 +1,4 @@
-package ru.sber.exceptions;
+package ru.sber.Exceptions;
 
 public class BankOnlineTest {
     public static void main(String[] args) {

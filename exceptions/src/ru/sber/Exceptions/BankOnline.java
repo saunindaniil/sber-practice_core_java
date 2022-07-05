@@ -1,4 +1,4 @@
-package ru.sber.exceptions;
+package ru.sber.Exceptions;
 
 import java.io.*;
 

@@ -1,4 +1,4 @@
-package ru.sber.exceptions;
+package ru.sber.Exceptions;
 
 public class BlockedCardException extends BankOnlineException {
     public BlockedCardException(String message) {

@@ -1,4 +1,4 @@
-package ru.sber.exceptions;
+package ru.sber.Exceptions;
 
 public class NullParameterException extends BankOnlineException {
     public NullParameterException(String message) {

@@ -1,4 +1,4 @@
-package ru.sber.exceptions;
+package ru.sber.Exceptions;
 
 public class NegativeTransferAmountException extends BankOnlineException {
     public NegativeTransferAmountException(String message) {

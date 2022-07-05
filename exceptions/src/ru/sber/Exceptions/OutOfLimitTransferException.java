@@ -1,4 +1,4 @@
-package ru.sber.exceptions;
+package ru.sber.Exceptions;
 
 public class OutOfLimitTransferException extends BankOnlineException {
     public OutOfLimitTransferException(String message) {
