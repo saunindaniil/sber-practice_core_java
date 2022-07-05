@@ -1,4 +1,4 @@
-package ru.sber.oop2;
+package ru.sber.OOP2;
 
 public enum Color {
     BLUE,

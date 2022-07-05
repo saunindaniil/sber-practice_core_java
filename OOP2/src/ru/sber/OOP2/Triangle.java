@@ -1,4 +1,4 @@
-package ru.sber.oop2;
+package ru.sber.OOP2;
 
 public class Triangle extends Figure implements Drawable{
     double a;
