@@ -1,4 +1,4 @@
-package ru.sber.oop1.oop1.Task3;
+package ru.sber.oop1.Task3;
 
 public class MatrixTest {
     public static void main(String[] args) {

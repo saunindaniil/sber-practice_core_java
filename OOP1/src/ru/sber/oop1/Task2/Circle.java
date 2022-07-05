@@ -1,4 +1,4 @@
-package ru.sber.oop1.oop1.Task2;
+package ru.sber.oop1.Task2;
 
 public class Circle {
     int radius;

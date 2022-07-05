@@ -1,4 +1,4 @@
-package ru.sber.oop1.oop1.Task4;
+package ru.sber.oop1.Task4;
 
 public class Book {
     String name;

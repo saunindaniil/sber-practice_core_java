@@ -1,4 +1,4 @@
-package ru.sber.oop1.oop1.Task5;
+package ru.sber.oop1.Task5;
 
 public class PizzaOrder {
     String name;

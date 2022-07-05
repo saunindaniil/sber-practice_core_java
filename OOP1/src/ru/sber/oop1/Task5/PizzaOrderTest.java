@@ -1,4 +1,4 @@
-package ru.sber.oop1.oop1.Task5;
+package ru.sber.oop1.Task5;
 
 public class PizzaOrderTest {
     public static void main(String[] args) {
