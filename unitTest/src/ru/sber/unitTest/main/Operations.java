@@ -1,6 +1,6 @@
 package ru.sber.unitTest.main;
 
-public class ArithmeticOperation {
+public class Operations {
     public double summation(double a, double b) {
         return a + b;
     }
