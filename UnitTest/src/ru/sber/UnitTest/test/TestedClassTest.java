@@ -1,4 +1,4 @@
-package ru.sber.unitTest.test;
+package ru.sber.UnitTest.test;
 
 import org.junit.Test;
 import org.mockito.Mockito;

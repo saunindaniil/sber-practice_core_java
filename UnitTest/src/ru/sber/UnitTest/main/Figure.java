@@ -1,4 +1,4 @@
-package ru.sber.unitTest.main;
+package ru.sber.UnitTest.main;
 
 public class Figure extends ArithmeticOperation {
 
