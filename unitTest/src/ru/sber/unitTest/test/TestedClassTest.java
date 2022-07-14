@@ -2,9 +2,6 @@ package ru.sber.unitTest.test;
 
 import org.junit.Test;
 import org.mockito.Mockito;
-import ru.sber.unitTest.main.Operations;
-import ru.sber.unitTest.main.TestedClass;
-
 import java.lang.reflect.Method;
 
 import static org.junit.Assert.assertEquals;
@@ -19,12 +16,12 @@ public class TestedClassTest {
     private final static double TESTED_SUMMATION = 5.0;
 
     @Test
-    public void getOperations() {
-        Operations operations = mock(Operations.class);
-        when(Operations.multiplication(2,3)).thenReturn(TESTED_MULTIPLICATION);
+    public void getArithmeticOperations() {
+        ArithmeticOperation arithmeticOperation = mock(ArithmeticOperation.class);
+        when(arithmeticOperation.multiplication(2,3)).thenReturn(TESTED_MULTIPLICATION);
         assertEquals(TESTED_MULTIPLICATION, TESTED_CLASS.multiplication(2,3), DELTA);
 
-        when(Operations.summation(3,2)).thenReturn(TESTED_SUMMATION);
+        when(arithmeticOperation.summation(3,2)).thenReturn(TESTED_SUMMATION);
         assertEquals(TESTED_SUMMATION, TESTED_CLASS.summation(3,2), DELTA);
     }
 

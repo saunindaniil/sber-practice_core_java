@@ -1,6 +1,6 @@
 package ru.sber.unitTest.main;
 
-public class Figure extends Operations {
+public class Figure extends ArithmeticOperation {
 
     private final static double PI = 3.14;
 
